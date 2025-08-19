@@ -26,16 +26,18 @@ Ecogreen360 provides:
 
 ### Core Technology Stack
 
-| Component | Technology | Purpose |
-|-----------|------------|---------|
-| **Backend Language** | Ballerina | Cloud-native programming for APIs and integration |
-| **Primary Database** | MySQL | Greenhouse data, jobs, news, meetings |
-| **IoT Database** | AWS DynamoDB | Real-time sensor data storage |
-| **Document Database** | MongoDB | Contact management and customer projects |
-| **Authentication** | Asgardio (WSO2) | User authentication with Google OAuth |
-| **Cloud Storage** | AWS S3 | File uploads (resumes, logos, media) |
-| **AI Integration** | Google Gemini API | Plant analysis and agricultural advice |
-| **Image Service** | Unsplash API | Plant imagery |
+| Component | Technology | Purpose | Configuration |
+|-----------|------------|---------|---------------|
+| **Backend Language** | Ballerina | Cloud-native programming for APIs and integration | All microservices |
+| **Primary Database** | MySQL | Greenhouse data, jobs, news | localhost:3306 (greenhouse_db, job_portal_db, news_db) |
+| **Document Database** | MongoDB | Contact management and customer projects | localhost:27017 (customer, plant collections) |
+| **Meeting Database** | PostgreSQL | Meeting scheduler and webinar management | localhost:5432 (meeting_requests table) |
+| **IoT Database** | AWS DynamoDB | Real-time sensor data storage | EU Stockholm region |
+| **Cloud Storage** | AWS S3 | Job portal resumes, blog media, news images | jobportal-uploads1 bucket (eu-north-1) |
+| **Authentication** | Asgardio (WSO2) | User authentication with Google OAuth | Integrated login system |
+| **AI Integration** | Google Gemini API | Plant analysis and agricultural advice | Multi-modal AI processing |
+| **Chatbot AI** | OpenAI API | Model training for intelligent chatbot responses | Custom model training with openaiApiKey |
+| **Image Service** | Unsplash API | Plant imagery | Automated image retrieval |
 
 ### Port Configuration
 
@@ -507,4 +509,4 @@ curl -i -N -H "Connection: Upgrade" -H "Upgrade: websocket" \
 
 ---
 
-**Made with ❤️ for Axionix**
+**Made with  for sustainable agriculture and smart farming**
