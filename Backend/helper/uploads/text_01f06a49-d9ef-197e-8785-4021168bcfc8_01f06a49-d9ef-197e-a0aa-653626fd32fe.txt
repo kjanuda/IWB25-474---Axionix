@@ -1,0 +1,23 @@
+Plant: Tomato
+
+Environment: Polyethylene-covered greenhouse, high humidity
+
+Age: 2 months
+
+Symptoms:
+
+Leaves curling upward
+
+Yellowing at the edges
+
+Reduced flowering
+
+Possible Causes:
+
+Excess heat and humidity buildup in the greenhouse
+
+Poor ventilation
+
+Nutrient imbalance (especially too much nitrogen)
+
+Pest infestation (whiteflies or aphids)

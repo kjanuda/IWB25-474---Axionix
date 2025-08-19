@@ -1,0 +1,18 @@
+[package]
+org = "your_org"
+name = "email_sender"
+version = "0.1.0"
+distribution = "2201.8.0"
+
+[platform.java11]
+graalvmCompatible = true
+
+[[platform.java11.dependency]]
+groupId = "com.sun.mail"
+artifactId = "jakarta.mail"
+version = "1.6.7"
+
+[[platform.java11.dependency]]
+groupId = "jakarta.activation"
+artifactId = "jakarta.activation-api"
+version = "1.2.2"

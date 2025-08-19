@@ -1,0 +1,9 @@
+[package]
+org = "janud"
+name = "plant_service"
+version = "0.1.0"
+distribution = "2201.12.4"
+
+[build-options]
+observabilityIncluded = true
+

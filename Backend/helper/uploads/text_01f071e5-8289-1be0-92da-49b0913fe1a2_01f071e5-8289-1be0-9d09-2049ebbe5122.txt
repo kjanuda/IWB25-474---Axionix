@@ -1,0 +1,1 @@
+How we built a smart, scalable backend to help farmers diagnose crop issues using text, images, and voice — powered by Ballerina, AWS, and Google AI.

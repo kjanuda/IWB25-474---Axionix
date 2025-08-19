@@ -1,0 +1,117 @@
+{"sessionId":"01f06a4d-f5f5-1380-a35c-770fd4e87c13","timestamp":"2025-07-26T18:25:52.050229100Z","inputType":"audio","userInputs":{"textInput":"Plant: Tomato
+
+Environment: Polyethylene-covered greenhouse, high humidity
+
+Age: 2 months
+
+Symptoms:
+
+Leaves curling upward
+
+Yellowing at the edges
+
+Reduced flowering
+
+Possible Causes:
+
+Excess heat and humidity buildup in the greenhouse
+
+Poor ventilation
+
+Nutrient imbalance (especially too much nitrogen)
+
+Pest infestation (whiteflies or aphids)","textS3Url":"https://ecogreen3600.s3.eu-north-1.amazonaws.com/agri-solver/texts/text_01f06a4d-f5f5-1380-a35c-770fd4e87c13_01f06a4d-f5f5-1386-94bf-772f0253399d.txt","textS3Key":"agri-solver/texts/text_01f06a4d-f5f5-1380-a35c-770fd4e87c13_01f06a4d-f5f5-1386-94bf-772f0253399d.txt","imageS3Url":"https://ecogreen3600.s3.eu-north-1.amazonaws.com/agri-solver/images/image_01f06a4d-f5f5-1380-a35c-770fd4e87c13_01f06a4d-fab9-1ec6-89b0-a02c7c1c4480.jpg","imageS3Key":"agri-solver/images/image_01f06a4d-f5f5-1380-a35c-770fd4e87c13_01f06a4d-fab9-1ec6-89b0-a02c7c1c4480.jpg","audioS3Url":"https://ecogreen3600.s3.eu-north-1.amazonaws.com/agri-solver/audios/audio_01f06a4d-f5f5-1380-a35c-770fd4e87c13_01f06a4e-0017-1368-b4d8-6bd17de05014.wav","audioS3Key":"agri-solver/audios/audio_01f06a4d-f5f5-1380-a35c-770fd4e87c13_01f06a4e-0017-1368-b4d8-6bd17de05014.wav"},"aiSolution":{"solutionText":"## Tomato Crop Distress in Greenhouse: Diagnosis and Solution
+
+Based on the provided image and audio (which I cannot directly access as an AI, but will consider the described symptoms), the tomato plants are exhibiting classic signs of stress, likely caused by a combination of factors rather than a single issue.  The upward leaf curling, yellowing edges, reduced flowering, high humidity, and polyethylene greenhouse environment strongly suggest heat stress exacerbated by potential nutrient imbalance and possibly pest infestation.
+
+**1. IMMEDIATE ACTIONS:**
+
+* **Improve Ventilation:** Immediately increase airflow within the greenhouse. This might involve opening vents, using fans (preferably oscillating), or installing additional ventilation systems if necessary.  Prioritize lowering humidity levels. Aim for relative humidity between 50-60%.
+* **Reduce Heat:**  If possible, shade the greenhouse during peak sun hours using shade cloth or reflective materials. Ensure proper greenhouse orientation to minimize direct sunlight.  Consider evaporative cooling techniques if feasible.
+* **Visual Inspection for Pests:** Thoroughly examine the plants for whiteflies and aphids. If present, initiate immediate pest control (see Prevention Strategies).
+* **Water Management:** Check soil moisture. Avoid overwatering, especially during high temperatures.  Ensure proper drainage to prevent waterlogging.  Water deeply but less frequently, allowing the soil to dry slightly between waterings.
+
+
+**2. PREVENTION STRATEGIES:**
+
+* **Ventilation System Upgrade:** Invest in a robust ventilation system that includes automatic vents and fans responsive to temperature and humidity levels. This is crucial for long-term greenhouse management.
+* **Nutrient Management:** Conduct a soil test to determine the precise nutrient levels. This will guide fertilizer application.  Avoid excessive nitrogen; focus on balanced NPK ratios appropriate for tomatoes at this growth stage.  Consider using slow-release fertilizers to prevent nutrient burn.
+* **Pest Monitoring:** Implement regular pest monitoring using sticky traps and visual inspections. Early detection is key to preventing major infestations. Consider introducing beneficial insects (e.g., ladybugs for aphids) as a biocontrol measure.
+* **Temperature Control:**  Invest in temperature monitoring equipment to track greenhouse conditions and adjust ventilation accordingly.  Consider using thermal blankets or insulation to moderate temperature fluctuations.
+* **Mulching:** Applying organic mulch around the plants can help regulate soil temperature and moisture.
+
+**3. COST ESTIMATES:**
+
+The costs will depend on the size of the greenhouse and the specific solutions implemented.  However, a rough estimate could be:
+
+* **Fans and Ventilation System:** $100 - $1000+ (depending on size and automation)
+* **Shade Cloth:** $50 - $200
+* **Soil Testing Kit:** $20 - $50
+* **Fertilizers:** $30 - $100
+* **Pesticides/Beneficial Insects:** $20 - $80
+* **Temperature Monitoring Equipment:** $50 - $200
+
+
+**4. ALTERNATIVE APPROACHES:**
+
+* **Hydroponics or Soilless Culture:** If the problem persists despite improvements, consider transitioning to a hydroponic or soilless system, offering better control over nutrient delivery and environmental conditions.  This is a significant investment but could offer long-term advantages.
+* **Greenhouse Relocation or Restructuring:** If the greenhouse location is consistently too hot or poorly ventilated, consider relocation or restructuring to improve air circulation and reduce direct sunlight.
+* **Disease Testing:** Rule out any potential diseases by sending samples to a diagnostic laboratory.  Some diseases can mimic nutrient deficiencies.
+
+**5. WARNING SIGNS:**
+
+* **Severe wilting:**  Indicates severe water stress or root problems.
+* **Leaf drop:**  Suggests advanced stress and potential nutrient deficiency or disease.
+* **Browning or necrosis of leaves:** Indicates advanced stages of heat stress, nutrient imbalance, or disease.
+* **Significant pest infestation:** Large numbers of whiteflies or aphids covering the plants can lead to significant crop loss.
+* **Fruit abnormalities:** Small, misshapen, or discolored fruits indicate stress during fruit development.
+
+**Crucial Note:**  The audio analysis could provide valuable insights into the specific sounds associated with the plants (e.g., rustling leaves indicating pest activity).  Integrating this information would refine the diagnosis and solutions.  The absence of this analysis limits the precision of this assessment.  Close monitoring of the plants and prompt action are vital to mitigate further damage and ensure a successful harvest.
+","confidence":0.85,"geminiResponse":"## Tomato Crop Distress in Greenhouse: Diagnosis and Solution
+
+Based on the provided image and audio (which I cannot directly access as an AI, but will consider the described symptoms), the tomato plants are exhibiting classic signs of stress, likely caused by a combination of factors rather than a single issue.  The upward leaf curling, yellowing edges, reduced flowering, high humidity, and polyethylene greenhouse environment strongly suggest heat stress exacerbated by potential nutrient imbalance and possibly pest infestation.
+
+**1. IMMEDIATE ACTIONS:**
+
+* **Improve Ventilation:** Immediately increase airflow within the greenhouse. This might involve opening vents, using fans (preferably oscillating), or installing additional ventilation systems if necessary.  Prioritize lowering humidity levels. Aim for relative humidity between 50-60%.
+* **Reduce Heat:**  If possible, shade the greenhouse during peak sun hours using shade cloth or reflective materials. Ensure proper greenhouse orientation to minimize direct sunlight.  Consider evaporative cooling techniques if feasible.
+* **Visual Inspection for Pests:** Thoroughly examine the plants for whiteflies and aphids. If present, initiate immediate pest control (see Prevention Strategies).
+* **Water Management:** Check soil moisture. Avoid overwatering, especially during high temperatures.  Ensure proper drainage to prevent waterlogging.  Water deeply but less frequently, allowing the soil to dry slightly between waterings.
+
+
+**2. PREVENTION STRATEGIES:**
+
+* **Ventilation System Upgrade:** Invest in a robust ventilation system that includes automatic vents and fans responsive to temperature and humidity levels. This is crucial for long-term greenhouse management.
+* **Nutrient Management:** Conduct a soil test to determine the precise nutrient levels. This will guide fertilizer application.  Avoid excessive nitrogen; focus on balanced NPK ratios appropriate for tomatoes at this growth stage.  Consider using slow-release fertilizers to prevent nutrient burn.
+* **Pest Monitoring:** Implement regular pest monitoring using sticky traps and visual inspections. Early detection is key to preventing major infestations. Consider introducing beneficial insects (e.g., ladybugs for aphids) as a biocontrol measure.
+* **Temperature Control:**  Invest in temperature monitoring equipment to track greenhouse conditions and adjust ventilation accordingly.  Consider using thermal blankets or insulation to moderate temperature fluctuations.
+* **Mulching:** Applying organic mulch around the plants can help regulate soil temperature and moisture.
+
+**3. COST ESTIMATES:**
+
+The costs will depend on the size of the greenhouse and the specific solutions implemented.  However, a rough estimate could be:
+
+* **Fans and Ventilation System:** $100 - $1000+ (depending on size and automation)
+* **Shade Cloth:** $50 - $200
+* **Soil Testing Kit:** $20 - $50
+* **Fertilizers:** $30 - $100
+* **Pesticides/Beneficial Insects:** $20 - $80
+* **Temperature Monitoring Equipment:** $50 - $200
+
+
+**4. ALTERNATIVE APPROACHES:**
+
+* **Hydroponics or Soilless Culture:** If the problem persists despite improvements, consider transitioning to a hydroponic or soilless system, offering better control over nutrient delivery and environmental conditions.  This is a significant investment but could offer long-term advantages.
+* **Greenhouse Relocation or Restructuring:** If the greenhouse location is consistently too hot or poorly ventilated, consider relocation or restructuring to improve air circulation and reduce direct sunlight.
+* **Disease Testing:** Rule out any potential diseases by sending samples to a diagnostic laboratory.  Some diseases can mimic nutrient deficiencies.
+
+**5. WARNING SIGNS:**
+
+* **Severe wilting:**  Indicates severe water stress or root problems.
+* **Leaf drop:**  Suggests advanced stress and potential nutrient deficiency or disease.
+* **Browning or necrosis of leaves:** Indicates advanced stages of heat stress, nutrient imbalance, or disease.
+* **Significant pest infestation:** Large numbers of whiteflies or aphids covering the plants can lead to significant crop loss.
+* **Fruit abnormalities:** Small, misshapen, or discolored fruits indicate stress during fruit development.
+
+**Crucial Note:**  The audio analysis could provide valuable insights into the specific sounds associated with the plants (e.g., rustling leaves indicating pest activity).  Integrating this information would refine the diagnosis and solutions.  The absence of this analysis limits the precision of this assessment.  Close monitoring of the plants and prompt action are vital to mitigate further damage and ensure a successful harvest.
+","processedAt":"2025-07-26T18:25:52.050229100Z"},"metadata":{"hasText":true,"hasImage":true,"hasAudio":true,"platform":"web","apiVersion":"v1"}}

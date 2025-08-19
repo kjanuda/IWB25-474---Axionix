@@ -1,0 +1,71 @@
+[package]
+org = "janud"
+name = "blog"
+version = "0.1.0"
+distribution = "2201.10.0"
+
+[build-options]
+observabilityIncluded = true
+
+# Java platform dependencies
+[[platform.java17.dependency]]
+artifactId = "mysql-connector-j"
+groupId = "com.mysql"
+version = "8.0.33"
+
+# Ballerina dependencies
+[[dependency]]
+org = "ballerinax"
+name = "mysql"
+version = "1.13.0"
+
+[[dependency]]
+org = "ballerinax"
+name = "mysql.driver"
+version = "1.7.0"
+
+[[dependency]]
+org = "ballerina"
+name = "email"
+version = "2.11.0"
+
+# Optional: Add other useful dependencies
+[[dependency]]
+org = "ballerina"
+name = "http"
+version = "2.14.2"
+
+[[dependency]]
+org = "ballerina"
+name = "mime"
+version = "2.9.0"
+
+[[dependency]]
+org = "ballerina"
+name = "uuid"
+version = "1.7.0"
+
+[[dependency]]
+org = "ballerina"
+name = "time"
+version = "2.4.0"
+
+[[dependency]]
+org = "ballerina"
+name = "file"
+version = "1.10.0"
+
+[[dependency]]
+org = "ballerina"
+name = "os"
+version = "1.8.0"
+
+[[dependency]]
+org = "ballerina"
+name = "io"
+version = "1.6.0"
+
+[[dependency]]
+org = "ballerina"
+name = "log"
+version = "2.9.0"

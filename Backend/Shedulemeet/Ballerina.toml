@@ -1,0 +1,13 @@
+[package]
+org = "janud"
+name = "com"
+version = "0.1.0"
+distribution = "2201.8.0"
+
+[build-options]
+observabilityIncluded = true
+
+[[platform.java17.dependency]]
+artifactId = "postgresql"
+version = "42.7.1"
+groupId = "org.postgresql"

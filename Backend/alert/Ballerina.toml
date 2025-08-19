@@ -1,0 +1,13 @@
+[package]
+org = "janud"
+name = "alert"
+version = "0.1.0"
+distribution = "2201.8.0"
+
+[build-options]
+observabilityIncluded = true
+
+[[platform.java17.dependency]]
+groupId = "com.mysql"
+artifactId = "mysql-connector-j"
+version = "8.1.0"

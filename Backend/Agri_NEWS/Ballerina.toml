@@ -1,0 +1,8 @@
+[package]
+org = "janud"
+name = "Agri_NEWS"
+version = "0.1.0"
+distribution = "2201.12.4"
+
+[build-options]
+observabilityIncluded = true

@@ -1,0 +1,10 @@
+[package]
+org = "janud"
+name = "blog"
+version = "0.1.0"
+distribution = "2201.10.0"
+
+[[platform.java17.dependency]]
+artifactId = "mysql-connector-j"
+groupId = "com.mysql"
+version = "8.0.33"
