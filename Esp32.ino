@@ -15,7 +15,7 @@ const char* ssid = "Dialog 4G";
 const char* password = "200225403366";
 
 // Ballerina server endpoint
-const char* ballerina_server = "http://localhost:8080";  // Change to your Ballerina server IP
+const char* ballerina_server = "http://192.168.8.161/sensors";  // Change to your Ballerina server IP
 
 // OLED display settings
 #define SCREEN_WIDTH 128
